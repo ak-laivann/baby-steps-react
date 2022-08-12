@@ -1,0 +1,32 @@
+
+.card-img-top {
+    margin: 0 auto;
+    width: 250px;
+    height: 150px;
+    background-color: #adadad;
+    text-align: center;
+    padding: 75px;
+    border: 1px solid gray;
+}
+
+.card {
+    margin: 20px 30px 20px 23px;
+    height: auto;
+    border: 1px solid gray;
+    box-shadow: 2px 2px 2px 2px #e0e0d1;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+}
+
+.checked {
+    color: orange;
+}
+
+.badge {
+    color: black;
+    background-color: blue;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
